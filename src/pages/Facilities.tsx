@@ -1,5 +1,5 @@
 
-import { Wifi, Coffee, Utensils, Bath, Wind, Flame, TreePine, Bicycle, Compass, BookOpen } from 'lucide-react';
+import { Wifi, Coffee, Utensils, Bath, Wind, Flame, TreePine, Compass, BookOpen, Bike } from 'lucide-react';
 
 const facilities = [
   {
@@ -40,7 +40,7 @@ const facilities = [
   {
     name: 'Bicycle Rental',
     description: 'Discover the beauty of Munnar at your own pace with our bicycle rental service.',
-    icon: Bicycle
+    icon: Bike
   },
   {
     name: 'Guided Tours',
