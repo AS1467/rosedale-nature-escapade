@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className="bg-resort-green text-white pt-16 pb-8">
       <div className="container mx-auto px-4 md:px-6">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Resort Info */}
           <div>
             <h3 className="text-xl font-serif mb-4">Rosedale Resort</h3>
@@ -53,25 +53,6 @@ const Footer = () => {
                 <a href="mailto:info@rosedaleresort.com" className="hover:text-resort-cream">info@rosedaleresort.com</a>
               </li>
             </ul>
-          </div>
-
-          {/* Newsletter */}
-          <div>
-            <h3 className="text-xl font-serif mb-4">Newsletter</h3>
-            <p className="mb-4 text-gray-200">Subscribe to get special offers and news.</p>
-            <form className="flex flex-col sm:flex-row gap-2">
-              <input 
-                type="email" 
-                placeholder="Your email" 
-                className="px-4 py-2 bg-white/10 rounded-md focus:outline-none focus:ring-2 focus:ring-resort-cream"
-              />
-              <button 
-                type="submit" 
-                className="px-4 py-2 bg-resort-cream text-resort-green rounded-md hover:bg-white transition-colors"
-              >
-                Subscribe
-              </button>
-            </form>
           </div>
         </div>
 

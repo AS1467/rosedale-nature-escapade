@@ -1,21 +1,10 @@
-
-import { Wifi, Coffee, Utensils, Bath, Wind, Flame, TreePine, Compass, BookOpen, Bike } from 'lucide-react';
+import { Wifi, Bath, Wind, Flame, TreePine, Compass, BookOpen, Bike } from 'lucide-react';
 
 const facilities = [
   {
     name: 'Free WiFi',
     description: 'Stay connected with complimentary high-speed WiFi available throughout the resort premises.',
     icon: Wifi
-  },
-  {
-    name: 'Coffee Shop',
-    description: 'Enjoy freshly brewed coffee, tea, and light snacks at our cozy coffee shop with mountain views.',
-    icon: Coffee
-  },
-  {
-    name: 'Restaurant',
-    description: 'Savor authentic Kerala cuisine and continental dishes at our in-house restaurant using locally-sourced ingredients.',
-    icon: Utensils
   },
   {
     name: '24/7 Hot Water',

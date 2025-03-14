@@ -1,4 +1,3 @@
-
 import { Star, StarHalf } from 'lucide-react';
 
 const reviews = [
@@ -184,21 +183,6 @@ const Reviews = () => {
                 <span className="ml-2 font-medium">9.2</span>
               </div>
               <span className="text-sm text-gray-600">35 reviews</span>
-            </a>
-          </div>
-        </div>
-      </section>
-
-      {/* Leave a Review */}
-      <section className="py-16 bg-resort-beige">
-        <div className="container mx-auto px-4 md:px-6 max-w-4xl text-center">
-          <h2 className="text-2xl md:text-3xl font-serif mb-6">Share Your Experience</h2>
-          <p className="text-lg mb-8">
-            Have you stayed with us? We'd love to hear about your experience at Rosedale Resort.
-          </p>
-          <div className="flex justify-center">
-            <a href="#" className="resort-button">
-              Write a Review
             </a>
           </div>
         </div>
