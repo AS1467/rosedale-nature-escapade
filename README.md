@@ -1,7 +1,6 @@
 # **Welcome to Rosedale Resort Website** 🌿🏡
 
-This is a beautifully designed and responsive website for **Rosedale Resort, Munnar**, built to provide an elegant and seamless experience for visitors.
-
+This website was built upon request for a friend who owns **Rosedale Resort, Munnar**. The goal was to create a beautifully designed and responsive digital presence to enhance the resort’s online visibility and improve the booking experience for visitors.
 ## **🛠️ Technologies Used**
 This project is built using:
 - **Vite** – Fast development environment
